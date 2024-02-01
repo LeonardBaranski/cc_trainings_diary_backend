@@ -90,7 +90,3 @@ def delete_data(id):
     db.delete_running_data(id)
 
     return jsonify({"success": True})
-
-if __name__ == '__main__':
-    app.run()
-
