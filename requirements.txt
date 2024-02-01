@@ -3,6 +3,5 @@ flask
 flask-cors
 google-auth
 python-dotenv
-bson
 pytz
 requests
